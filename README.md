@@ -1,5 +1,5 @@
 # 🚫 SiteBloker v2.1.8
-**Tecnologia Utilizada:** 
+**Tecnologia Utilizada:** </br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 **SiteBloker** é um sistema avançado de **controle e bloqueio de conteúdo online**, projetado especialmente para ambientes **educacionais** e **corporativos**.  
