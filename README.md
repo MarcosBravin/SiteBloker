@@ -1,4 +1,5 @@
 # 🚫 SiteBloker v2.1.8
+**Tecnologia Utilizada:** <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 **SiteBloker** é um sistema avançado de **controle e bloqueio de conteúdo online**, projetado especialmente para ambientes **educacionais** e **corporativos**.  
 Na versão **2.1.8**, oferece bloqueio automatizado de páginas web, com base em palavras-chave, listas de exceção e desbloqueio temporário, garantindo **segurança**, **produtividade** e uma **experiência de uso moderna e intuitiva**.
