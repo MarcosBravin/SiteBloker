@@ -1,0 +1,17 @@
+{
+    "admin": {
+        "senha": "0f76b67e986d2b131063d6895bbea703c20dba35c7d2a3df67aeb9cd7af6fa90",
+        "salt": "bc429756f72408eeb928f4247653c7ac",
+        "role": "admin"
+    },
+    "marcosbravin": {
+        "senha": "d0647eaca140102b299f03307bbf89b0c43449816e4901d9a7df4d717ba09aad",
+        "salt": "bd2afc6255725fe888eafab8ae9bfc69",
+        "role": "admin"
+    },
+    "g100853": {
+        "senha": "fbcab96816862461a03bea2ce7b840e71e61b7c66c516011a9c7f7febbe0d676",
+        "salt": "d63248247840dab9aa1fe12b384f0b65",
+        "role": "gestor"
+    }
+}
