@@ -10,8 +10,13 @@
     "role": "gestor"
   },
   "Maria": {
-    "senha": "a2c9867999f29d3edcc3cf18b64644157779f4f8a8bfd565a6f1a8127c099f7a",
-    "salt": "f7b2863dcb884322183bfc150a8d2fb7",
-    "role": "admin"
+    "senha": "fbcab96816862461a03bea2ce7b840e71e61b7c66c516011a9c7f7febbe0d676",
+    "salt": "d63248247840dab9aa1fe12b384f0b65",
+    "role": "gestor"
+  },
+  "afjasjfg": {
+    "senha": "30aa4524b14283fed4279ea4d8199d3058af9eb946bea8806ef6372e1077e82f",
+    "salt": "d3ec347cae00c1347499d53e9ed3017b",
+    "role": "gestor"
   }
 }
