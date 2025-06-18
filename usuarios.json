@@ -18,5 +18,10 @@
     "senha": "bb61727c1062e5731f50a6bb03565256f1fcd072bf85b88cd95ab3fec5f8480c",
     "salt": "1ba2591fbe8a8090a3786ee7ff04a188",
     "role": "admin"
+  },
+  "g100853": {
+    "senha": "080ea0034fd6a8d13adc85acdf089900804bcbaa78b2f9c1cf15da60ead248d1",
+    "salt": "7a5bb6858e60489baa39261b45ac28c1",
+    "role": "admin"
   }
 }
