@@ -18,5 +18,15 @@
     "senha": "30aa4524b14283fed4279ea4d8199d3058af9eb946bea8806ef6372e1077e82f",
     "salt": "d3ec347cae00c1347499d53e9ed3017b",
     "role": "gestor"
+  },
+  "Teste": {
+    "senha": "2fd273a0de87cdb9f13bdbdc6ae770674972d6f64e0763b5ff149b2f29c065d7",
+    "salt": "f110117ca7390b4912b053e9cf206987",
+    "role": "gestor"
+  },
+  "asdasdsadasdas": {
+    "senha": "bb61727c1062e5731f50a6bb03565256f1fcd072bf85b88cd95ab3fec5f8480c",
+    "salt": "1ba2591fbe8a8090a3786ee7ff04a188",
+    "role": "admin"
   }
 }
