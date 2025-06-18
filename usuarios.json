@@ -23,5 +23,10 @@
     "senha": "2fd273a0de87cdb9f13bdbdc6ae770674972d6f64e0763b5ff149b2f29c065d7",
     "salt": "f110117ca7390b4912b053e9cf206987",
     "role": "gestor"
+  },
+  "dasfdas": {
+    "senha": "8d6b13821b4052fe1aa59b9a65474ef0b53d7919360ea0cd142e395ba8cc1180",
+    "salt": "c0cb719e09dc4c8733229854d5dfd8a1",
+    "role": "admin"
   }
 }
