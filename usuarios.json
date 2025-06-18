@@ -13,10 +13,5 @@
     "senha": "fbcab96816862461a03bea2ce7b840e71e61b7c66c516011a9c7f7febbe0d676",
     "salt": "d63248247840dab9aa1fe12b384f0b65",
     "role": "admin"
-  },
-  "Teste123": {
-    "senha": "9366c05b5837d83b0a7463f4fd27c020e2b49df9f1564cad7dded55b7dec5c7c",
-    "salt": "bf1e9608a04b42948863fd00e816dcea",
-    "role": "admin"
   }
 }
