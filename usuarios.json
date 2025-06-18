@@ -4,14 +4,14 @@
     "salt": "bd2afc6255725fe888eafab8ae9bfc69",
     "role": "admin"
   },
-  "Maria": {
-    "senha": "fbcab96816862461a03bea2ce7b840e71e61b7c66c516011a9c7f7febbe0d676",
-    "salt": "d63248247840dab9aa1fe12b384f0b65",
-    "role": "gestor"
-  },
   "g100853": {
     "senha": "b8b6fd496265fe7341f74a33903752f828c2a1699ae199555a497b7d1c1c72d9",
     "salt": "e7969c59ce73af652f5d4536983d8955",
+    "role": "admin"
+  },
+  "Maria": {
+    "senha": "fbcab96816862461a03bea2ce7b840e71e61b7c66c516011a9c7f7febbe0d676",
+    "salt": "d63248247840dab9aa1fe12b384f0b65",
     "role": "admin"
   }
 }
