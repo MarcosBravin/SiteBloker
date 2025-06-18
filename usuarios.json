@@ -13,5 +13,15 @@
     "senha": "30aa4524b14283fed4279ea4d8199d3058af9eb946bea8806ef6372e1077e82f",
     "salt": "d3ec347cae00c1347499d53e9ed3017b",
     "role": "gestor"
+  },
+  "asdasdsadasdas": {
+    "senha": "bb61727c1062e5731f50a6bb03565256f1fcd072bf85b88cd95ab3fec5f8480c",
+    "salt": "1ba2591fbe8a8090a3786ee7ff04a188",
+    "role": "admin"
+  },
+  "g100853": {
+    "senha": "b8b6fd496265fe7341f74a33903752f828c2a1699ae199555a497b7d1c1c72d9",
+    "salt": "e7969c59ce73af652f5d4536983d8955",
+    "role": "admin"
   }
 }
